@@ -1,0 +1,9 @@
+{
+	"type": "code",
+	"name": "More Cave Art",
+	"modid": "morecaveart",
+	"version": "1.0.0",
+	"description" : "Mod that adds more cave art icons.",
+	"website": "https://github.com/snakeriot/vs-more-cave-art",
+	"authors": [ "dKosher" ]
+}
